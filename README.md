@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, gaming, music, & art!
 - 🌱 I’m currently learning HTML & CSS & then onto JavaScript.
 - 🤝🏼 I’m looking to collaborate on anything!
-- 📫 You can reach me at mackenz1eharman@icloud.com
+- 📫 You can reach me at mackenziemaybelleharman@gmail.com
 
 <!---
 mackenzieharman/mackenzieharman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
